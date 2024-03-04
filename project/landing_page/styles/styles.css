@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 1rem 0rem;
+}
+
+header {
+  text-align: center;
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+  padding: 1rem 0rem;
+  background-color: rgb(229, 231, 252);
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+main figure img {
+  display: block;
+}
+
+#image {
+  display: block;
+  height: 30px;
+}
+
+/*# sourceMappingURL=styles.css.map */
